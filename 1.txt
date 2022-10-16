@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello git!
+=======
+hello git !
+hello wangjiao !
+>>>>>>> heml
